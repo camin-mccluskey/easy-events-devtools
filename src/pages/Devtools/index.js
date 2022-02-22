@@ -1,0 +1,1 @@
+chrome.devtools.panels.create('Easy Events', 'icon-34.png', 'panel.html');
